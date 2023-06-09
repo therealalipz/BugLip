@@ -24,18 +24,18 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.youtube = 'https://youtube.com/channel/UCUK00KNYiidAv6w8-SGZghA' // ubah aia
 global.ig = 'https://www.instagram.com/ff.liiyt/?hl=id' // ubah aja
 global.email = 'xddani715@gmail.com'
-global.region = 'indonesia'
+global.region = 'malaysia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Dani Maker 䄀' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'DaniBot 䄀' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Dani Maker 䄀' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ʟ֟፝ ɴɪ ʙøss⛩️ Maker 䄀' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ʟ֟፝ ɴɪ ʙøss⛩️ 䄀' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ʟ֟፝ ɴɪ ʙøss⛩️ Maker 䄀' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281348106274'] // ubah aja pake nomor lu
-global.premium = ['6281348106274'] // ubah aja pake nomor lu
-global.packname = 'Dani Maker 䄀' // ubah aja
-global.ownerr = ['Dani Maker   䄀'] // ubaha aja
-global.author = 'Dani Maker 䄀' //ubah aja
+global.owner = ['601128654242'] // ubah aja pake nomor lu
+global.premium = ['601128654242'] // ubah aja pake nomor lu
+global.packname = 'ʟ֟፝ ɴɪ ʙøss⛩️ Maker 䄀' // ubah aja
+global.ownerr = ['ʟ֟፝ ɴɪ ʙøss⛩️ Maker   䄀'] // ubaha aja
+global.author = 'ʟ֟፝ ɴɪ ʙøss⛩️ Maker 䄀' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
@@ -58,7 +58,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
 //=================================================//
 //Terserah Kalau Paham 
